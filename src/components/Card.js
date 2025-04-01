@@ -15,7 +15,7 @@ const Card = ({ title, description, imageSrc, githubLink }) => {
         <Heading size="md">{title}</Heading>
         <Text fontSize="large" color="gray">{description}</Text>
         <HStack>
-        <a href={githubLink}>click to see code  <FontAwesomeIcon icon={faArrowRight} size="1x" /> </a>
+        <a href={githubLink}>click here to see code <FontAwesomeIcon icon={faArrowRight} size="1x" /> </a>
         </HStack>
       </VStack>
     </VStack>
