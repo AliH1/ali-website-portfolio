@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ali-website-portfolio/static/css/main.df6a7eab.css",
-    "main.js": "/ali-website-portfolio/static/js/main.eec292cd.js",
-    "static/js/919.4f52e6f1.chunk.js": "/ali-website-portfolio/static/js/919.4f52e6f1.chunk.js",
+    "main.js": "/ali-website-portfolio/static/js/main.1d7ababd.js",
+    "static/js/919.48726cc3.chunk.js": "/ali-website-portfolio/static/js/919.48726cc3.chunk.js",
     "static/media/p3.png": "/ali-website-portfolio/static/media/p3.d80175301cfafe448e72.png",
     "static/media/p1.png": "/ali-website-portfolio/static/media/p1.91a3393b1a2953ec6e0e.png",
     "static/media/p4.png": "/ali-website-portfolio/static/media/p4.01f245a90ae4408904e3.png",
@@ -10,11 +10,11 @@
     "static/media/avatar.jpg": "/ali-website-portfolio/static/media/avatar.65d41590baa5578b2994.jpg",
     "index.html": "/ali-website-portfolio/index.html",
     "main.df6a7eab.css.map": "/ali-website-portfolio/static/css/main.df6a7eab.css.map",
-    "main.eec292cd.js.map": "/ali-website-portfolio/static/js/main.eec292cd.js.map",
-    "919.4f52e6f1.chunk.js.map": "/ali-website-portfolio/static/js/919.4f52e6f1.chunk.js.map"
+    "main.1d7ababd.js.map": "/ali-website-portfolio/static/js/main.1d7ababd.js.map",
+    "919.48726cc3.chunk.js.map": "/ali-website-portfolio/static/js/919.48726cc3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a7eab.css",
-    "static/js/main.eec292cd.js"
+    "static/js/main.1d7ababd.js"
   ]
 }
