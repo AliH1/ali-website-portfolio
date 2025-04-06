@@ -5,7 +5,7 @@ import avatar from "../images/avatar.jpg";
 
 const greeting = "Hello, I am Ali!";
 const bio1 = "A software Developer specialised in";
-const bio2 = " building web applications in React,";
+const bio2 = " building web applications in React, Angular,";
 const bio3 = " Javascript, Typescript, Nodejs, Java, and python"
 
 // Implement the UI for the LandingSection component according to the instructions.
